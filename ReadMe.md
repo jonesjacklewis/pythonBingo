@@ -1,3 +1,5 @@
 # Bingo
 
-A bingo game written in python 
+A two "player" bingo game written in python.
+
+See requirements.txt
